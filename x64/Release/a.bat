@@ -1,1 +1,0 @@
-SpatiallyCoupledCycleOptimization.exe -seed 1 -girth 10 -circulant 10000 -numberOfMatrices 10 -file proto.txt
